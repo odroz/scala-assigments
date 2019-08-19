@@ -26,3 +26,9 @@ the daemon.
 
 No automated tests will be ran on our side, and attention will be given to choices
 made in terms of dependencies and code architecture. 
+
+### Follow-up questions
+
+- Describe security concerns with the code you've provided. 
+- Imagine your code quickly become extremely popular, and people is posting a massive amount of jobs per minute. What piece of architecture would you add?
+- 
