@@ -1,4 +1,4 @@
-##A simple HTTP API
+## A simple HTTP API
 
 ### Objective
 
