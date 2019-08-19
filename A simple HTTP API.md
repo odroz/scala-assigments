@@ -22,7 +22,7 @@ launched with `sbt run`.
 
 Storage of jobs should be limited to in-memory, and functional
 boundaries should be split across clearly defined components within
-the daemon.
+the app.
 
 No automated tests will be ran on our side, and attention will be given to choices
 made in terms of dependencies and code architecture. 
@@ -31,4 +31,4 @@ made in terms of dependencies and code architecture.
 
 - Describe security concerns with the code you've provided. 
 - Imagine your code quickly become extremely popular, and people is posting a massive amount of jobs per minute. What piece of architecture would you add?
-- 
+- Describe how a user could see the jobs he posted? What is required?
